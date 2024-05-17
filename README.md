@@ -92,7 +92,8 @@ Provide steps to trigger the integration and show what should be observed if suc
 1. Delete the S3 files in the hosting and output buckets above.
 
 1. Delete the stack, via SAM
-    ```sam delete
+    ```
+    sam delete
     ```
 1. Confirm the stack has been deleted
     ```bash
