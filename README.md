@@ -21,9 +21,10 @@ The purpose of this repo is to provide an automated, scalable, and cost-effectiv
 ## Deployment Instructions
 
 1. Create a new directory, navigate to that directory in a terminal and clone the GitHub repository:
-    ``` 
-    git clone https://github.com/aws-samples/serverless-patterns
-    ```
+
+``` 
+git clone https://github.com/aws-samples/serverless-patterns
+```
 2. Navigate to the directory where your SAM application is located. 
 
 ```
