@@ -102,6 +102,8 @@ Provide steps to trigger the integration and show what should be observed if suc
     ```
     
 ----
-Copyright 2023 Amazon.com, Inc. or its affiliates. All Rights Reserved.
+## Authors and acknowledgment
+This project was built by Sachin Holla, Kaiyin Hu and Sid Vantair, who are Solutions Architects at AWS.
 
-SPDX-License-Identifier: MIT-0
+## License
+This library is licensed under the MIT-0 License. See the LICENSE file.
